@@ -1,0 +1,10 @@
+{
+  "name": "PeakForm",
+  "short_name": "PeakForm",
+  "description": "AI gym tracker with on-device pose detection",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#070B14",
+  "theme_color": "#070B14",
+  "icons": []
+}
